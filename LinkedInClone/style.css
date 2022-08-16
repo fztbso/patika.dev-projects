@@ -1,0 +1,64 @@
+nav{
+    background: white;
+}
+
+.searchKismi{
+    position: relative;
+    top: 8px;
+    width: 300px;
+}
+
+.classDeneme{
+    display:flex;
+    position: relative;
+    left: 0px;
+}
+
+.navbar-brand{
+    position: relative;
+    top: 9px;
+}
+
+.itemler{
+    position: relative;
+    left: 300px;
+}
+
+.navbarList li{
+    display: inline;
+}
+.navbarListUL li{
+    display: inline;
+    font-size: 12px;
+}
+
+.menutext {
+    font-size: 13px;
+    font-family: sans-serif;
+    color: gray;
+    margin-top: 5px;
+    font-weight: lighter;
+  }
+  .menutext:hover {
+    color: black;
+  }
+  
+  button.mediatext {
+    color: #5f5f5f;
+  }
+  
+  button.mediatext:hover {
+    color: #5f5f5f;
+  }
+
+.borderIcin{
+    border: solid 1px lightgrey;
+}
+
+li{
+    list-style-type: none;
+}
+
+.secondContainer> li{
+    display: inline;
+}
