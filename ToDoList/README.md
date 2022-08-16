@@ -1,0 +1,1 @@
+patika.dev için hazırladım to do list projesi.
